@@ -1,0 +1,9 @@
+{
+  "workflow": "Reconciliation Engine • Collateral (Corporate Banking)",
+  "input": {
+    "message": "Hello World"
+  },
+  "config": {
+    "timeout": 30000
+  }
+}
