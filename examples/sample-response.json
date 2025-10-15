@@ -1,0 +1,9 @@
+{
+  "id": "exec_1234567890",
+  "status": "completed",
+  "timestamp": "2025-10-15T16:32:48.360Z",
+  "result": {
+    "success": true,
+    "message": "Workflow executed successfully"
+  }
+}
